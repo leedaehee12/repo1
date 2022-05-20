@@ -75,6 +75,37 @@ OrderManageMent
 ![3](https://user-images.githubusercontent.com/84042181/169463219-9d80bd75-0b21-4940-88de-643fddfe3b7d.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------
+
+<br><br><br>
+
+ERD
+
+![1](https://user-images.githubusercontent.com/84042181/169463471-96b0298e-d8ad-4a94-893b-68361a18a14a.PNG)
+![2](https://user-images.githubusercontent.com/84042181/169463482-c94c1663-c7ed-495e-95f6-bbcf6e1a2d4a.PNG)
+![3](https://user-images.githubusercontent.com/84042181/169463501-24aab256-55e9-483c-b649-878f50f9e3d3.PNG)
+![4](https://user-images.githubusercontent.com/84042181/169463513-8b88fe2e-f576-43d0-ad66-d21796d8a5d1.PNG)
+
+
+<br><br><br>
+
+Java Bean Graphs
+
+![7](https://user-images.githubusercontent.com/84042181/169463651-29f6b56f-ed4b-4562-b28a-95a4dd97e5be.PNG)
+![5](https://user-images.githubusercontent.com/84042181/169463657-9746f4cb-70e2-40d5-b78a-e687cf0c1330.PNG)
+![6](https://user-images.githubusercontent.com/84042181/169463661-e3f3dee7-68d5-471a-9a9d-650cfee02f25.PNG)
+
+
+
+<br><br><br>
+
+URL mapping
+
+![8](https://user-images.githubusercontent.com/84042181/169463721-7ba2aff3-0541-4912-a8dc-0e5b3ab803ff.PNG)
+![9](https://user-images.githubusercontent.com/84042181/169463724-4da4fbd7-e48e-4c03-aca1-c26e4b48c5f0.PNG)
+
+
+
 
 
 
