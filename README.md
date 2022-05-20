@@ -1,8 +1,12 @@
 # repo1
+projectSpecTable
+
+![프로젝트 스펙001](https://user-images.githubusercontent.com/84042181/169457568-0c92f7b1-c078-4105-84c6-af6ca37d04d6.jpg)
+![프로젝트 스펙002](https://user-images.githubusercontent.com/84042181/169457576-21858866-50ad-4149-bb29-c0c27facd89e.jpg)
+![프로젝트 스펙003](https://user-images.githubusercontent.com/84042181/169457583-cd555262-d143-4f75-b607-57835d97baa5.jpg)
 
 
 
-[프로젝트 스펙001](https://user-images.githubusercontent.com/84042181/169457265-b552b7b2-d6e7-454e-bcff-2873d94bf2e5.jpg)
-![프로젝트 스펙002](https://user-images.githubusercontent.com/84042181/169457272-818d0026-1976-49c4-b9af-10ba13aedc4a.jpg)
-![프로젝트 스펙003](https://user-images.githubusercontent.com/84042181/169457281-80cc2870-fd59-48ef-9a24-4a45a73c5e45.jpg)
+
+
 
